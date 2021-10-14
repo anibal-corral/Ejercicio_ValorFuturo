@@ -1,0 +1,24 @@
+Considerando lo siguiente:
+  VF = Valor Final
+  VP = Valor Presente
+  I = Interés
+  N = Cantidad de periodos
+  La fórmula para calcular VF está dada por: VF = VP(1+I)^N
+
+Se puede determinar lo siguiente:
+
+Para Calcular el Valor Presente:
+  VP = VF/(1+I)^N
+
+Para Calcular la cantidad de periodos:
+  N = Log(VF/VP)/Log(1+I)
+  
+Para calcular el Interés:
+  I = (VF/VA)^(1/N)-1
+  
+  
+  
+  Qué es el Interés Nominal? Es el interés sin tomar en cuenta la inlación.
+  Cómo se calcula?
+  La fórmula para tener el valor futuro con interes nominal es:
+    VF = VP(1+N*I)
